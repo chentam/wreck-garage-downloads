@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "version": 1,
+  "channel": "friend-preview",
+  "published_at": "2026-11-15T09:54:12Z",
+  "release_tag": "friends-r5-e6544706",
+  "release_url": "https://github.com/chentam/wreck-garage-downloads/releases/tag/friends-r5-e6544706",
+  "download_url": "https://github.com/chentam/wreck-garage-downloads/releases/download/friends-r5-e6544706/WreckGarage-Windows.zip",
+  "source_commit": "e6544706",
+  "sha256": "3fec4a760d0c0c85cf6544a114c10dfa5f5542b648d04d4f2588df87b604d0cb",
+  "size_bytes": 67168011
+}
