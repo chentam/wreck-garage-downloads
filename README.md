@@ -2,15 +2,15 @@
 
 Build your own buggy, then wreck your friends with gloves, chainsaws and track hazards.
 
-**[Download WreckGarage-Windows.zip](https://github.com/chentam/wreck-garage-downloads/releases/latest/download/WreckGarage-Windows.zip)** (about 64 MB)
+**[Download WreckGarage-Windows.zip](https://github.com/chentam/wreck-garage-downloads/releases/download/v2/WreckGarage-Windows.zip)** (about 68 MB)
 
 ![Saltcliff coast](screenshots/01-hero-saltcliff-lighthouse.png)
 
 | | |
 |---|---|
-| Public version | **1** — friend preview |
-| Source build (technical) | `e6544706` |
-| SHA-256 | `3fec4a760d0c0c85cf6544a114c10dfa5f5542b648d04d4f2588df87b604d0cb` |
+| Public version | **2** — friend preview |
+| Source build (technical) | `63b6cdde` |
+| SHA-256 | `82656f504366437d431a9b483b6b6b4a55fa9b17dafed8df8a8851ef6f9cc8f5` |
 | Platform | Windows 10/11, 64-bit. Nothing else to install. |
 
 ## How to play
@@ -30,7 +30,7 @@ To check your download, compare its SHA-256 with the one above (`certutil -hashf
 
 ## Screenshots
 
-Captured from this exact build at 1920x1080. Some combat moments (the glove hit, the chainsaw) were set up by script so they could be photographed.
+Captured from Version 1 at 1920x1080. Some combat moments (the glove hit, the chainsaw) were set up by script so they could be photographed.
 
 | | |
 |---|---|
